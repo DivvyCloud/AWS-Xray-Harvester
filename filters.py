@@ -6,7 +6,7 @@ from DivvyDb.QueryFilters.registry import QueryRegistry
 from DivvyResource import ResourceType
 from DivvyUtils.field_definition import SelectionField, FieldOptions
 
-default_filters_author = 'Fidelity'
+default_filters_author = 'DivvyCloud'
 
 
 @QueryRegistry.register(
